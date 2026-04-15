@@ -1,6 +1,6 @@
 # SDN-Based Path Tracing Tool
 
-**Course:** UE24CS252B - Computer Networks  
+**Course:** - Computer Networks  
 **Author:** Shreya Shahapur (PES1UG24CS442)
 
 ## Overview
