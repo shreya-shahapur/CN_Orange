@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 SDN-Based Path Tracing Tool
-Course: UE24CS252B - Computer Networks
+Course: Computer Networks
 Uses OVSBridge (standalone mode) - NO external controller needed.
 """
 
