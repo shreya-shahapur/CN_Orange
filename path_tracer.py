@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-SDN-Based Path Tracing Tool
+Software Defined Network-Based Path Tracing Tool
 Course: Computer Networks
 Uses OVSBridge (standalone mode) - NO external controller needed.
 """
