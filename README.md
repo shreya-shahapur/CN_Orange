@@ -1,7 +1,8 @@
 # SDN-Based Path Tracing Tool
 
 **Course:** - Computer Networks  
-**Author:** Shreya Shahapur (PES1UG24CS442)
+**Name:** Shreya Shahapur 
+**SRN:** PES1UG24CS442
 
 ## Overview
 
